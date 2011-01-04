@@ -1,0 +1,15 @@
+django-sites-tools
+==================
+
+.. include:: ../README.rst
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   decorators
+   fields
+   managers
+   middleware
+   changelog
