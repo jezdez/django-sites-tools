@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='django-sites-tools',
-    version='0.1.0',
+    version='0.2.0',
     description="A Django app that provides tools for the contrib sites app.",
     author='Jannis Leidel',
     author_email='jannis@leidel.info',
